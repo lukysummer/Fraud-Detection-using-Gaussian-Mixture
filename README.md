@@ -1,4 +1,4 @@
-# Fraud-Detection-using-Gaussian-Mixtures
+# Credit Card Fraud Detection using Gaussian Mixtures
 Can we effectively detect fraudulent credit card transactions using Gaussian Mixture Model?
 
 <p align="center"><img src="img.jpg" width = "440" height = "256"></p>
